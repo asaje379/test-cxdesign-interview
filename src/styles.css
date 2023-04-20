@@ -1,0 +1,27 @@
+:root {
+  --blue: #3289f1;
+  --radius: 4px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  margin: 0;
+}
+
+input {
+}
+
+button {
+}
+
+.profile {
+}
+
+.search {
+  margin-bottom: 20px;
+}
